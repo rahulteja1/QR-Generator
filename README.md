@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="RahulTeja_QR.png">
+</div>
+
+
+
+
 <head>
     <style>
         .center {
