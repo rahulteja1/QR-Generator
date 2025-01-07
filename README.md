@@ -7,12 +7,6 @@
     <img src="RahulTeja_QR.png" alt="HTML Image">
 </div>
 
-<p>
-    The text-align property in CSS controls the
-    horizontal alignment of inline content
-    (such as text) and inline-block elements
-    within their containing block-level element.
-</p>
 
 
 
