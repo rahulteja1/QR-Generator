@@ -3,7 +3,6 @@
 </h3>
 
 
-<h3 align="left">Resume: </h3>
 <p align="left">
 <img align="center" src="RahulTeja_QR.png" alt="rahul teja bolloju" height="30" width="40" /></a>
 </p>
