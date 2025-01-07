@@ -16,7 +16,3 @@
 
 
 
-<img align="middle" width="300" src="https://github.com/rahulteja1/rahulteja1/assets/98079530/1317ae78-d335-48ec-b49e-d0dc9e1b2de1">
-<p align="left">
-<img align="center" src="RahulTeja_QR.png" alt="rahul teja bolloju" height="30" width="40" /></a>
-</p>
